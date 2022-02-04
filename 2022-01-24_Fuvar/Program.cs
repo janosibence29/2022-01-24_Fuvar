@@ -89,6 +89,16 @@ namespace _2022_01_24_Fuvar
             Console.WriteLine($"6. feladat: {ÖsszMérföld * 1.6:0.00}km");
 
 
+            //7.
+            int maxIndex = 0;
+            for (int i = 0; i < fuvarok.Count; i++)
+            {
+
+            }
+
+
+
+
             Console.ReadKey();
         }
 
